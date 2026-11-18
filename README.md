@@ -93,7 +93,7 @@ Requirements: Windows 10/11, Git, Flutter 3.47.7 (stable) with Dart 3.13.5,
 Android Studio with the Android SDK.
 
 ```powershell
-git clone https://github.com/muhammadyaseen2k03/nuvora.git
+git clone https://github.com/muhammaddaoud196/nuvora.git
 cd nuvora
 flutter pub get
 flutter run                  # an emulator or a USB-connected phone
